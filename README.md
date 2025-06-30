@@ -57,7 +57,7 @@ The web interface will be available at `http://localhost:8501`
 
 ## 🎥 Demo Video
 
-A [Demo Video](https://github.com/rakshit2020/Multi-Model-RAG/MultiModel_RAG_DEMO.mp4) is included.
+A [Demo Video](MultiModel_RAG_DEMO.mp4) is included.
 
 
 ### 🔧 Configuration
